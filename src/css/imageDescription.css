@@ -1,0 +1,35 @@
+.imageDescription {
+  text-align: center;
+}
+.imageDescription .closeButton-container button {
+  border-radius: 100%;
+  font-size: 2rem;
+  margin-right: 50px;
+}
+.imageDescription .closeButton-container {
+  text-align: right;
+  border-radius: 50px;
+}
+.imageDescription img {
+  width: 75vw;
+}
+.imageDescription .display-flex {
+  display: flex;
+  justify-content: space-around;
+}
+.imageDescription .position-relative {
+  background-color: rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: auto;
+  top: -95px;
+  width: 75vw;
+}
+.imageDescription h1 {
+  color: white;
+  font-size: 2rem;
+}
+.imageDescription .information {
+  margin-top: -70px;
+  font-size: 1.3rem;
+  padding-bottom: 40px;
+}

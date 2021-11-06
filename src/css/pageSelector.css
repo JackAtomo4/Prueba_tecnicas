@@ -1,0 +1,19 @@
+.pagesSelector {
+  position: fixed;
+  bottom: 0;
+  /* margin-right: 5px; */
+  /* margin-left: 5px; */
+  width: 100%;
+  background-image: url("https://cdn.pixabay.com/index/2021/11/02/07-35-50-740_1920x550.jpg");
+  color: white;
+}
+.pagesSelector div {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}
+.pagesSelector button {
+  color: white;
+  border: none;
+  background-color: transparent;
+}
